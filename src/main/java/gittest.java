@@ -10,5 +10,6 @@ public class gittest {
         System.out.println(3333);
         System.out.println(5555);
         System.out.println(666);
+        System.out.println(777);
     }
 }
