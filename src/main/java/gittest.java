@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("2222");
         System.out.println(3333);
         System.out.println(5555);
+        System.out.println(666);
     }
 }
